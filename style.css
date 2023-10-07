@@ -1,0 +1,41 @@
+.container{
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2 /*auto-fill*/, 300px) /*=  300px 300px; */;
+    grid-template-rows: repeat(3, 200px) /*= 200px 200px 200px*/;
+    gap: 20px;
+    justify-items: center;
+    align-items: center;
+    grid-template-areas: "black green "
+    "empty1 empty2" 
+    "red blue"; 
+}
+
+div{
+   height: 200px;
+   width: 200px; 
+}
+
+#blue{
+    background-color: blue;
+    /* Here is the definition of the possition using column and row (not area)*/
+    grid-column: 2; 
+    grid-row: 3; 
+    /* end*/ 
+}
+
+#green{
+    background-color: green;
+    grid-area: green;
+}
+
+#black{
+    background-color: black;
+    grid-area: black;
+}
+
+#red{
+    background-color: red;
+    grid-area: red;
+}
