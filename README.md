@@ -1,10 +1,16 @@
+Hello! This is a repository that I created for understand the Gryd-System and become a professional at the most scarefull part of WEB Development: RESPONSIVE. Until get there, I'll be using this repository to share my journey and also to help myself remembering the things.
 
+If you're reading this and have any doupt or tip/addition that can be helpfull, please contact me . 
+
+Thanks for visiting!
 
 <h2> Definition: </h2> 
-In a simple way we can define Grid System as  a graphic design that divides your screen into lines and columns. The purpose of it, is to simplyfie the organization of components, pleacing them within specficly "blocks".This system provides a structured layout, making it easier to arrange and align elements on the screen
+In a simple way we can define Grid System as  a graphic design that divides your screen into lines and columns creating cells. The purpose of it, is to simplyfie the organization of components, pleacing them within specficly "blocks".This system provides a structured layout, making it easier to arrange and align elements on the screen
 
 <b> Heres an example: </b>
-![Alt text](image-2.png)
+<div>
+    <img src="https://www.freecodecamp.org/news/content/images/2022/05/CSS-GRID-3.png" width="430px" height="400px">
+</div>
 
 <h2> How to use on your code </h2>
 
