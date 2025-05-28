@@ -4,8 +4,6 @@ If you're reading this and have any doupt or tip/addition that can be helpfull, 
 
 Thanks for visiting!
 
-<h1> ===== PROJECT IN PROGESS ===== </p>
-
 <h2> Definition: </h2> 
 In a simple way we can define Grid System as  a graphic design that divides your screen into lines and columns creating cells. The purpose of it, is to simplyfie the organization of components, pleacing them within specficly "blocks".This system provides a structured layout, making it easier to arrange and align elements on the screen
 
